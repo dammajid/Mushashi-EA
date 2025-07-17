@@ -1,5 +1,5 @@
 # Mushashi EA
-
+❌ This project is proprietary. Not licensed for reuse, redistribution, or modification.
 **Mushashi EA** is a high-performance Expert Advisor (EA) built for trading XAUUSD (GOLD) using smart order block detection. Designed for fast execution, optimal in low timeframes, and compatible with cent accounts.
 
 ## 🔑 Features
