@@ -1,0 +1,10 @@
+Copyright (c) 2025 Adam Murph
+
+All rights reserved.
+
+This software and source code are proprietary and confidential.
+No part of this code may be copied, distributed, modified, published, or used without explicit written permission from the author.
+
+Unauthorized use of this software is strictly prohibited and may result in legal consequences.
+
+This project is NOT open-source.
